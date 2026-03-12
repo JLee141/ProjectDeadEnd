@@ -1,4 +1,4 @@
-# ProjectDeadEnd
+# ProjectDeadEnd (JLEE EDITION)
 
 ![ProjectDeadEnd status header](./assets/project-dead-end-header.svg)
 
