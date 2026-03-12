@@ -1,6 +1,6 @@
 # ProjectDeadEnd
 
-status visibility access launch mood
+![ProjectDeadEnd status header](./assets/project-dead-end-header.svg)
 
 This repo exists to say that the real project is not public yet.
 
