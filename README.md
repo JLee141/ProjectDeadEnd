@@ -31,12 +31,12 @@ Until launch day, this repo is here to confirm that the project exists, developm
 When it is polished, presentable, and significantly less chaotic behind the scenes.
 
 Until then, thanks for the curiosity.  
-Please check back later when the curtain goes up.  
+Please check back later when the curtain goes up.
 
+<br>
 
-  
 *“An entire world unto itself, but not yet up and running.”* – Joe Rohde
 
-
+<br>
 
 With 🫶🏼 - JLee
