@@ -1,6 +1,8 @@
 # ProjectDeadEnd
 
-This repo exists to say, that the real project is not public yet.
+status visibility access launch mood
+
+This repo exists to say that the real project is not public yet.
 
 Think of it as a velvet rope for code:
 the lights are on, something interesting is happening behind the curtain, but the official reveal is still pending.
@@ -28,9 +30,13 @@ Until launch day, this repo is here to confirm that the project exists, developm
 
 When it is polished, presentable, and significantly less chaotic behind the scenes.
 
-Until then, thanks for the curiosity.
-Please check back later when the curtain goes up.
+Until then, thanks for the curiosity.  
+Please check back later when the curtain goes up.  
 
-_“An entire world unto itself, but not yet up and running.”_ – Joe Rohde
+
+  
+*“An entire world unto itself, but not yet up and running.”* – Joe Rohde
+
+
 
 With 🫶🏼 - JLee
