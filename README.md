@@ -1,6 +1,6 @@
 # ProjectDeadEnd (JLEE EDITION)
 
-![ProjectDeadEnd status header](./assets/project-dead-end-header.svg)
+![ProjectDeadEnd (JLEE EDITION) status header](./assets/project-dead-end-header.svg)
 
 This repo exists to say that the real project is not public yet.
 
